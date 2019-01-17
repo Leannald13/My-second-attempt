@@ -1,26 +1,14 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+# My Second Attempt At My First Web Page
 
+This module so far has covered HTML, CSS and the basics of Git and Github. 
 
-Hi there! Welcome to Cloud9 IDE!
+## What have I learned
 
-To get you started, we included a small hello world application.
+I have learned how to add links and images to create logos on the website. I am however stuck as to how I get the logos to look in line with each other as they curently look messy on the page.
+I learned how to change font types and sizes.
 
-1) Open the hello-world.html file
+### Git and Github
 
-2) Click on the Preview button to open a live preview pane
-
-3) Make some changes to the file, save, watch the preview, and have fun!
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+I have found this very difficult and have gone over this part of the module twice and feel I have started to get my head around it. I have learned how to create new files.
+I have also learned how to add those files to the staging area and then commit them.
+I have learned how to take the commited files and move them to github, and how to also make them a live link which I will need to use for my projects later on.
